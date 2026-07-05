@@ -23,7 +23,7 @@ Core Gameplay Systems
 Submission Context
   - Project Title: Gravity-Flip Extraction Runner
   - Author: Mihir
-  - Target: Lila: Games Designer
+  - Designed For: Lila - Games Designer
   - Design Intent: A mechanical proof-of-concept demonstrating how complex extraction loops can be successfully distilled into lightweight, hyper-accessible           arcade frameworks.
 
 Link: https://randomdx.itch.io/gravity-flip-extraction-runner
