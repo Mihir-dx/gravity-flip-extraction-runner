@@ -24,6 +24,8 @@ Submission Context
   - Project Title: Gravity-Flip Extraction Runner
   - Author: Mihir
   - Target: Lila: Games Designer
-  - Design Intent: A mechanical proof-of-concept demonstrating how complex extraction loops can be successfully distilled into lightweight, hyper-accessible arcade frameworks.
+  - Design Intent: A mechanical proof-of-concept demonstrating how complex extraction loops can be successfully distilled into lightweight, hyper-accessible           arcade frameworks.
+
+Link: https://randomdx.itch.io/gravity-flip-extraction-runner
 
 Tech stack: Vanilla TypeScript, Vite, and HTML5 Canvas (For 60FPS performance).
